@@ -1,3 +1,3 @@
-FROM Dockerfile:alpine
+FROM nginx:alpine
 
 EXPOSE 80
